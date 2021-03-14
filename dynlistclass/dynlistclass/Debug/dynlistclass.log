@@ -1,0 +1,3 @@
+﻿  dynlistclass.cpp
+C:\Users\vl6d9\source\repos\dynlistclass\dynlistclass\dynlistclass.cpp(5,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  dynlistclass.vcxproj -> C:\Users\vl6d9\source\repos\dynlistclass\Debug\dynlistclass.exe

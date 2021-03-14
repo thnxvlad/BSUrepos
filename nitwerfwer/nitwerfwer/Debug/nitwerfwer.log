@@ -1,0 +1,4 @@
+﻿  nitwerfwer.cpp
+C:\Users\vl6d9\source\repos\nitwerfwer\nitwerfwer\nitwerfwer.cpp(19,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vl6d9\source\repos\nitwerfwer\nitwerfwer\nitwerfwer.cpp(12): warning C4172: возвращение адреса локальной или временной переменной : ndest
+  nitwerfwer.vcxproj -> C:\Users\vl6d9\source\repos\nitwerfwer\Debug\nitwerfwer.exe

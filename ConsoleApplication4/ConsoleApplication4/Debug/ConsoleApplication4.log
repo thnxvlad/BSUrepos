@@ -1,0 +1,4 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\vl6d9\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(46,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vl6d9\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(73): message : выполняется компиляция ссылки на экземпляр шаблон функции "void FileWriter<int>(std::vector<int,std::allocator<int>>,int)"
+  ConsoleApplication4.vcxproj -> C:\Users\vl6d9\source\repos\ConsoleApplication4\Debug\ConsoleApplication4.exe

@@ -1,0 +1,3 @@
+﻿  huffman_code.cpp
+C:\Users\vl6d9\source\repos\huffman_code\huffman_code\huffman_code.cpp(23,13): warning C4244: аргумент: преобразование "short" в "const char", возможна потеря данных
+  huffman_code.vcxproj -> C:\Users\vl6d9\source\repos\huffman_code\Debug\huffman_code.exe

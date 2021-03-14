@@ -1,0 +1,3 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\vl6d9\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(5,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication3.vcxproj -> C:\Users\vl6d9\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe

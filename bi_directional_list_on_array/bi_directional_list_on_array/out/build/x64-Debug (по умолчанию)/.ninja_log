@@ -1,0 +1,6 @@
+# ninja log v5
+0	256	629244452	CMakeFiles/bi_directional_list_on_array.dir/bidirectional_list_on_array.cpp.obj	684df839b1a75fe5
+32	357	629244452	CMakeFiles/bi_directional_list_on_array.dir/word_card.cpp.obj	4aa014988fb2a084
+9	583	629244453	CMakeFiles/bi_directional_list_on_array.dir/file_reader.cpp.obj	b37b258bda54e59c
+24	627	629244453	CMakeFiles/bi_directional_list_on_array.dir/vocabulary.cpp.obj	584f10902af3193b
+16	922	629244453	CMakeFiles/bi_directional_list_on_array.dir/main.cpp.obj	d7d7a25d4a2acb1

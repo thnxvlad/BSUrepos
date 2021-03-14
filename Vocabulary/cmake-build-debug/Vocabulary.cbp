@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Vocabulary"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/vl6d9/source/repos/Vocabulary/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\vl6d9\source\repos\Vocabulary\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\vl6d9\source\repos\Vocabulary\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\vl6d9\source\repos\Vocabulary\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\vl6d9\source\repos\Vocabulary\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Vocabulary">
+				<Option output="C:/Users/vl6d9/source/repos/Vocabulary/cmake-build-debug/Vocabulary.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/vl6d9/source/repos/Vocabulary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/vl6d9/source/repos/Vocabulary/."/>
+					<Add directory="C:/Users/vl6d9/source/repos/Vocabulary/.idea"/>
+					<Add directory="C:/Users/vl6d9/source/repos/Vocabulary/Debug"/>
+					<Add directory="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\vl6d9\source\repos\Vocabulary\cmake-build-debug\Makefile VERBOSE=1 Vocabulary"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\vl6d9\source\repos\Vocabulary\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\vl6d9\source\repos\Vocabulary\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\vl6d9\source\repos\Vocabulary\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Vocabulary/fast">
+				<Option output="C:/Users/vl6d9/source/repos/Vocabulary/cmake-build-debug/Vocabulary.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/vl6d9/source/repos/Vocabulary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/vl6d9/source/repos/Vocabulary/."/>
+					<Add directory="C:/Users/vl6d9/source/repos/Vocabulary/.idea"/>
+					<Add directory="C:/Users/vl6d9/source/repos/Vocabulary/Debug"/>
+					<Add directory="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\vl6d9\source\repos\Vocabulary\cmake-build-debug\Makefile VERBOSE=1 Vocabulary/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\vl6d9\source\repos\Vocabulary\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\vl6d9\source\repos\Vocabulary\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\vl6d9\source\repos\Vocabulary\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/vl6d9/source/repos/Vocabulary/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\vl6d9\source\repos\Vocabulary\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\vl6d9\source\repos\Vocabulary\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\vl6d9\source\repos\Vocabulary\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\vl6d9\source\repos\Vocabulary\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/vl6d9/source/repos/Vocabulary/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\vl6d9\source\repos\Vocabulary\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\vl6d9\source\repos\Vocabulary\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\vl6d9\source\repos\Vocabulary\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\vl6d9\source\repos\Vocabulary\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/.idea/workspace.xml">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Debug/Vocabulary.exe">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Debug/Vocabulary.ilk">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Debug/Vocabulary.pdb">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary.sln">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/BiDirectionalListOnArray.cpp">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/BiDirectionalListOnArray.h">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Debug/BiDirectionalListOnArray.obj">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Debug/FileReader.obj">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Debug/Vocabulary.Build.CppClean.log">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Debug/Vocabulary.exe.recipe">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Debug/Vocabulary.log">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Debug/Vocabulary.obj">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Debug/Vocabulary.tlog/CL.command.1.tlog">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Debug/Vocabulary.tlog/CL.read.1.tlog">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Debug/Vocabulary.tlog/CL.write.1.tlog">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Debug/Vocabulary.tlog/Vocabulary.lastbuildstate">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Debug/Vocabulary.tlog/link.command.1.tlog">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Debug/Vocabulary.tlog/link.read.1.tlog">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Debug/Vocabulary.tlog/link.write.1.tlog">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Debug/Vocabulary.tlog/unsuccessfulbuild">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Debug/Vocabulary.vcxproj.FileListAbsolute.txt">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Debug/main.obj">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Debug/vc142.idb">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Debug/vc142.pdb">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/FileReader.cpp">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/FileReader.h">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Vocabulary.cpp">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Vocabulary.h">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Vocabulary.vcxproj">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Vocabulary.vcxproj.filters">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/Vocabulary.vcxproj.user">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/WordCard.cpp">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/WordCard.h">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/containers.h">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/kr2_gr3_eryomenko_vlad.zip">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/Vocabulary/main.cpp">
+			<Option target="Vocabulary"/>
+		</Unit>
+		<Unit filename="C:/Users/vl6d9/source/repos/Vocabulary/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

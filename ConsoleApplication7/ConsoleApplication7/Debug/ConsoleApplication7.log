@@ -1,0 +1,3 @@
+﻿  ConsoleApplication7.cpp
+C:\Users\vl6d9\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(16,7): error C2039: "method2": не является членом "A".
+C:\Users\vl6d9\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(4): message : см. объявление "A"

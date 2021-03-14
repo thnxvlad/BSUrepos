@@ -1,0 +1,17 @@
+﻿  GetNotation.cpp
+C:\Users\vl6d9\source\repos\polska\polska\EStack.h(2,1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  main.cpp
+C:\Users\vl6d9\source\repos\polska\polska\EStack.h(2,1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  CalcExpression.cpp
+C:\Users\vl6d9\source\repos\polska\polska\EStack.h(2,1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  StrToNotation.cpp
+C:\Users\vl6d9\source\repos\polska\polska\EStack.h(2,1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  StrToVector.cpp
+C:\Users\vl6d9\source\repos\polska\polska\EStack.h(2,1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\vl6d9\source\repos\polska\polska\StrToVector.cpp(8,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vl6d9\source\repos\polska\polska\StrToVector.cpp(18,20): warning C4018: <: несоответствие типов со знаком и без знака
+  VectorToNotation.cpp
+C:\Users\vl6d9\source\repos\polska\polska\EStack.h(2,1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\vl6d9\source\repos\polska\polska\VectorToNotation.cpp(8,13): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  polska.vcxproj -> C:\Users\vl6d9\source\repos\polska\Debug\polska.exe

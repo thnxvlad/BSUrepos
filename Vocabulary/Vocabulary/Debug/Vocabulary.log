@@ -1,0 +1,4 @@
+﻿  Vocabulary.cpp
+  WordCard.cpp
+C:\Users\vl6d9\source\repos\Vocabulary\Vocabulary\WordCard.cpp(10,37): error C2558: class "WordCard": нет доступных конструкторов копий, или конструктор копий объявлен как "explicit"
+  Создание кода...

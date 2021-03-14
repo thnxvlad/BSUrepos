@@ -1,0 +1,3 @@
+C:/Users/vl6d9/source/repos/Vocabulary/cmake-build-debug/CMakeFiles/Vocabulary.dir
+C:/Users/vl6d9/source/repos/Vocabulary/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vl6d9/source/repos/Vocabulary/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\vl6d9\source\repos\queue_linked_list\queue_linked_list\main.cpp(8,2): error C2065: QueueLinkedList: необъявленный идентификатор
+C:\Users\vl6d9\source\repos\queue_linked_list\queue_linked_list\main.cpp(8,17): error C2062: тип "int" не требуется
+C:\Users\vl6d9\source\repos\queue_linked_list\queue_linked_list\main.cpp(8,24): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\vl6d9\source\repos\queue_linked_list\queue_linked_list\main.cpp(8,37): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\vl6d9\source\repos\queue_linked_list\queue_linked_list\main.cpp(8,38): error C2059: синтаксическая ошибка: ,
+C:\Users\vl6d9\source\repos\queue_linked_list\queue_linked_list\main.cpp(9,2): error C2059: синтаксическая ошибка: if
+C:\Users\vl6d9\source\repos\queue_linked_list\queue_linked_list\main.cpp(11,1): error C2059: синтаксическая ошибка: }
+C:\Users\vl6d9\source\repos\queue_linked_list\queue_linked_list\main.cpp(11,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+  QueueLinkedList.cpp
+  Создание кода...
